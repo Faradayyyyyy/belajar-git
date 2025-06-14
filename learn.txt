@@ -1,2 +1,1 @@
-Belajar Git langkah demi langkah.
-Commit pertama saya.
+Menambahkan baris pertama.
